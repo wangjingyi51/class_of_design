@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui_1/school1.jpg</file>
+        <file>ui_1/school2.jpg</file>
+        <file>ui3/map.jpg</file>
+        <file>adminis.TXT</file>
+        <file>school.TXT</file>
+        <file>user.TXT</file>
+        <file>school_route.TXT</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>ui2/background1.jpg</file>
+        <file>ui2/background2.jpg</file>
+        <file>ui2/v2-8d1fdb3bdafe4c5719a56239ea9cd3ab_r.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>music/admusic.mp3</file>
+        <file>music/overturn.mp3</file>
+        <file>music/usermusic.mp3</file>
+    </qresource>
+</RCC>
